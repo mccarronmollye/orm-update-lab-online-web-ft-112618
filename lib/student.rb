@@ -63,6 +63,7 @@ class Student
     new_student_id = [0]
     new_student_name = [1]
     new_student_grade = [2]
+    new_student
   end 
 
 
