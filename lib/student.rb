@@ -4,9 +4,9 @@ class Student
 
   attr_accessor :name, :grade
   
-  def initialize
-    @name = name
-    @grade = grade
-  end 
+  #def initialize
+   # @name = name
+    #@grade = grade
+  #end 
 
 end
