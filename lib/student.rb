@@ -60,6 +60,9 @@ class Student
   
   def self.new_from_db(row)
     new_student = self.new 
+    new_student_id = [0]
+    new_student_name = [1]
+    new_student_grade = [2]
   end 
 
 
